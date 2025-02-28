@@ -25,7 +25,9 @@ JavaScript 🚀
 📌 Instalación y Uso
 
 1️⃣ Clona el repositorio:
-git clone https://
+
+git clone https://github.com/SilvinoAga/challenge-amigo-secreto_esp-main1/tree/main
+
 2️⃣ Abre el archivo index.html en tu navegador.
 
 📜 Código Principal
